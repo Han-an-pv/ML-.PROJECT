@@ -127,6 +127,6 @@ Best model (Random Forest) saved using joblib
 8️⃣ Prediction on Unseen Data
 Predict on synthetic unseen data
 
-conclution
+conclusion
 
 
